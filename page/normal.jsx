@@ -84,7 +84,7 @@ const playN100= () => {
             <p className="ct2" ref={msg3_100}></p> 
        </div>
         <div className="home">
-            <a href="/">
+            <a href="/Game10Answer/">
                 <img src={image6} alt=""/>
             </a>
         </div>
